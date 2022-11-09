@@ -1,4 +1,6 @@
 MY RENCANA BARU
-- Belajar bahasa JAVA
+- Belajar bahasa Javascript
+ * Belajar ES6
+ * Belajar Framework Javascript
 - Belajar PHP dasar
 - Belajar LaRAVEL
