@@ -2,6 +2,8 @@ MY RENCANA BARU
 - Belajar bahasa Javascript
  * Belajar ES6
  * Belajar Framework Javascript
+   ^ Belajar Angular
+   ^ Belajar React
 - Belajar PHP dasar
 - Belajar LARAVEL
-- Belajar CSS3
+- Belajar Bootstrap
