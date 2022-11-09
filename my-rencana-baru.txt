@@ -3,4 +3,5 @@ MY RENCANA BARU
  * Belajar ES6
  * Belajar Framework Javascript
 - Belajar PHP dasar
-- Belajar LaRAVEL
+- Belajar LARAVEL
+- Belajar CSS3
